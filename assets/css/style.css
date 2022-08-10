@@ -1,0 +1,45 @@
+img {
+  width: 95%;
+  margin: 0 10px;
+}
+
+div {
+  width: 30%;
+  height: 70%;
+  border: 1px solid black;
+  margin: auto;
+  background-color: rgba(189, 181, 181, 0.271);
+}
+
+.post1 {
+  margin-bottom: 3%;
+}
+
+article {
+  font-size: 20px;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+
+h2,
+h3,
+h4 {
+  padding: 0 10;
+  font-size: 15px;
+}
+
+h1 {
+  font-size: 20px;
+}
+
+.fa-instagram{
+font-size: 30px;
+align-items: center;
+}
+
+header{
+  display: flex;
+  justify-content: space-between;
+
+}
